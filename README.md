@@ -4,14 +4,14 @@ This repository contains Python scripts for the quantification of sequences from
 Dependencies
 
 The scripts rely on the following Python libraries:
-	•	csv: For reading and writing CSV files, enabling seamless import/export of sequence and data tables.
-	•	Levenshtein: To compute the Levenshtein (edit) distance between pairs of sequences, which is essential for analyzing sequence similarity.
-	•	logomaker: For generating sequence logos from alignment data, providing visual representations of sequence patterns.
-	•	numpy: Used for numerical computations and data manipulation, particularly for normalizing frequency distributions.
-	•	matplotlib: For creating visualizations such as bar plots and sequence logos, enabling data interpretation through graphical outputs.
-	•	mpl_toolkits.mplot3d: To generate 3D bar plots, facilitating the visualization of comparative frequency data.
-	•	pandas: For efficient data manipulation and analysis, particularly when working with tabular data.
-	•	umap.umap_: For dimensionality reduction, useful for UMAP analysis to visualize high-dimensional data in lower dimensions.
+	•	csv
+	•	Levenshtein
+	•	logomaker
+	•	numpy
+	•	matplotlib
+	•	mpl_toolkits.mplot3d
+	•	pandas
+	•	umap.umap_
  	
 
 Input data
